@@ -1,0 +1,63 @@
+
+
+ body{
+ 	background-image: url('css/grfx/bg.png');
+ 	background-repeat: repeat-x;
+ 	font-family: sans-serif;
+ }
+
+
+
+header {
+	margin: 0;
+background-image: url("https://github.com/davinci-ao17/de-vloot/blob/master/css/grfx/header.jpg?raw=true");
+height: 260px;
+}
+
+
+
+main{
+	margin: 0 auto;
+	width: 800px;
+	background-color: white;
+}
+ul li{
+	padding: 16px;
+	list-style-type: none;
+	display: inline;
+	
+}
+
+.top-menu{
+	margin-top:150PX;
+	color: white;
+}
+article h2{
+
+	color: black
+	padding-top: 30px;
+}
+ .top-left {
+ 	float: left;
+ }
+ a {
+ 	color: white;
+ }
+
+.top-right {
+	float: right;
+}
+.top-kool {
+	margin-top: 120px;
+}
+
+.class12{
+	padding-left: 30px; 
+
+}	
+	
+	.class2005 {
+		padding-left: 600px;
+	}
+
+
