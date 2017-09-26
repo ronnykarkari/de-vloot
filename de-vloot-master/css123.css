@@ -39,6 +39,8 @@ article h2{
 }
  .top-left {
  	float: left;
+ 	margin-right: 15px;		
+ 	margin-bottom: 15px;
  }
  a {
  	color: white;
@@ -53,11 +55,19 @@ article h2{
 
 .class12{
 	padding-left: 30px; 
+	margin-bottom:20px;
+	margin-right: 20px;
 
 }	
 	
-	.class2005 {
-		padding-left: 600px;
-	}
 
+#kruisers1 {
+	margin-bottom: 20px;
+	float: left;
+	margin-right: 20px;
+}	
+
+.kruisers2 {
+	float: right;
+}
 
