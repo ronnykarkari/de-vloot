@@ -44,7 +44,12 @@ article h2{
  }
  a {
  	color: white;
- }
+}
+
+a:hover {
+	color: black;
+}
+
 
 .top-right {
 	float: right;
